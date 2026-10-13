@@ -1,0 +1,72 @@
+[
+  {
+    "tx_hash": "0x40bbc14e5a140b8d0dd9971b023f315f2d9fb854ab7c39fa63fb691dc8273eb6",
+    "block_signed_at": "2025-02-19T21:18:03.000Z",
+    "value": "3713000"
+  },
+  {
+    "tx_hash": "0x9e03e67f026e2c83dd85842f1339aa5e7ed57d1af7fc8f0b02824835dca6c15c",
+    "block_signed_at": "2025-02-19T21:03:51.000Z",
+    "value": "3700000"
+  },
+  {
+    "tx_hash": "0x33a1368f44486cbc66a537e03c6eae9a35a3ad72d879649fe7af42b03ca57471",
+    "block_signed_at": "2025-02-19T20:59:35.000Z",
+    "value": "3000000"
+  },
+  {
+    "tx_hash": "0x40209688d046eb872e6495865a4ccc7ae015a3de96077f0e285151a625d3f91b",
+    "block_signed_at": "2025-02-19T20:52:25.000Z",
+    "value": "3713000"
+  },
+  {
+    "tx_hash": "0xee3fe2f9bdb5fd42f7d4c25a74348efc3254f9cf97762b75fcc755f3443e5e84",
+    "block_signed_at": "2025-02-19T20:01:51.000Z",
+    "value": "3700000"
+  },
+  {
+    "tx_hash": "0x0d7a05a309f2e28aa3ab4b2e416d7f3172fc2543b46793eaa5c2c40996ef8904",
+    "block_signed_at": "2025-02-19T05:03:11.000Z",
+    "value": "3000000"
+  },
+  {
+    "tx_hash": "0xb577e0580afca563586cbb06e0d54a5b6aef451e2d35d6ac3d17965f68c7f217",
+    "block_signed_at": "2025-02-19T04:00:21.000Z",
+    "value": "3713000"
+  },
+  {
+    "tx_hash": "0x8a9e30d69a8078e42ed51798f27292b6ec4ce60642d695897c434f70f68b9a79",
+    "block_signed_at": "2025-02-17T16:04:31.000Z",
+    "value": "3700000"
+  },
+  {
+    "tx_hash": "0x746663689e745fb4d5a5568642f7339213eee135e6892dc2a95d175ea5d2d913",
+    "block_signed_at": "2025-02-16T21:37:37.000Z",
+    "value": "3000000"
+  },
+  {
+    "tx_hash": "0x33aac940d04ce6ff585ae9e46a1220a2408347a97d360836400b3a31de923752",
+    "block_signed_at": "2025-02-15T22:25:45.000Z",
+    "value": "3713000"
+  },
+  {
+    "tx_hash": "0x90e8d158ded1a18e79a00bcdf9650b0df735a640f45a9be03546a6239d4fe010",
+    "block_signed_at": "2025-02-15T16:07:31.000Z",
+    "value": "3700000"
+  },
+  {
+    "tx_hash": "0xb602cbfae19008c5a66e387425d7e9ffde8bad53224e42b41e32e653770397a8",
+    "block_signed_at": "2025-02-15T08:37:33.000Z",
+    "value": "3000000"
+  },
+  {
+    "tx_hash": "0xeb136be9dc0eb2281125ac29bf9d3f70a60a69f82eaa24081f917a77112da8ea",
+    "block_signed_at": "2025-02-15T02:04:01.000Z",
+    "value": "3713000"
+  },
+  {
+    "tx_hash": "0xe72a80e2e945591a18651360d73dd4183e8097533e71ecda76c6fa5f0ab1d788",
+    "block_signed_at": "2025-02-14T21:42:01.000Z",
+    "value": "3700000"
+  }
+]

@@ -1,6 +1,6 @@
 {
   "name": "share-v1-dashboards",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Share network dashboard analytics and charts",
   "main": "src/index.ts",
   "author": "brandon@formless.xyz",
